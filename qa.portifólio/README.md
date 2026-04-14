@@ -127,7 +127,6 @@ Scenario: Login com senha não preenchida
 ## 📬 Contato
 
 - 💼 LinkedIn: [Claudio Marcel](https://www.linkedin.com/in/claudio-marcel-674933163/details/skills/)
-- 🐙 GitHub: *(adicione seu perfil aqui)*
 
 ---
 
