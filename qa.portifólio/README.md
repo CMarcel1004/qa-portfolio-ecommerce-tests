@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Profissional de QA com **4 anos de experiência** em testes manuais e automação, atuando em sistemas web e ambientes corporativos.
+Profissional de QA com experiência em testes manuais e automação, atuando em sistemas web e ambientes corporativos.
 
 Tenho experiência sólida com **Cypress** e **Selenium**, escrita de cenários em **BDD/Gherkin**, análise de comportamento de interface e documentação estruturada de bugs.
 
@@ -116,8 +116,6 @@ Scenario: Login com senha não preenchida
 
 | Ferramenta | Uso |
 |---|---|
-| **Cypress** | Automação de testes E2E |
-| **Selenium** | Automação de testes web |
 | **Gherkin / BDD** | Escrita de cenários de teste |
 | **GitHub** | Versionamento e portfólio |
 | **Chrome DevTools** | Análise de comportamento e evidências |
@@ -136,7 +134,3 @@ Scenario: Login com senha não preenchida
 - Importância da análise de comportamento além do esperado
 - Aplicação prática de BDD em cenários reais
 - Escrita de bugs com foco em impacto no usuário
-
----
-
-> 💡 *Este projeto foi desenvolvido com fins de demonstração prática de habilidades em QA, utilizando o SauceDemo como aplicação de referência — plataforma criada especificamente para prática e portfólios da área.*
